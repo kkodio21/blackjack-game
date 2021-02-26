@@ -1,6 +1,6 @@
 # blackjack and perfect play bot
-ただ純粋にCUIベースでBlackJackを遊びたい場合はblackjack.py
+ただ純粋にCUIベースでBlackJackを遊びたい場合はblackjack.py　Yesの場合は１を、Noの場合は１以外の文字入力してください
 
 完璧なプレーイングを行うプログラムを実施して、グラフにプロットしたい場合はblackjackbot.py
 
-デッキの数や初期所持金を変えると面白い結果になるかも
+デッキの数や初期所持金を変えることも可能
